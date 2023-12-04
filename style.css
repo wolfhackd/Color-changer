@@ -1,0 +1,54 @@
+* {
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: blue;
+
+}
+
+#box1 {
+    background-color: grey;
+    border: 3px solid gold;
+    border-radius: 24px;
+    width: 375px;
+    height: 500px;
+    /* padding: 25px; */
+    margin: 25px auto auto auto;
+}
+
+#title {
+    background-color: gold;
+    padding: 25px;
+    border-radius: 20px 20px 0 0;
+    text-align: center;
+}
+
+#box2 {
+    display: inline-block;
+    padding-left: 137px;
+}
+
+#color {
+    height: 100px;
+    width: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-color: blanchedalmond;
+}
+
+#mudar {
+    width: 100px;
+    font-weight: bold;
+}
+
+p {
+    padding-top: 25px;
+    font-weight: bolder;
+}
+#res {
+    font-weight: bolder;
+    text-align: center;
+}
